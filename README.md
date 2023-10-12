@@ -3,10 +3,10 @@
 ByteSnake is a classic snake game implemented in Java, offering a nostalgic gaming experience with a modern touch. Control your pixelated snake, devour food, and avoid collisions to grow longer and achieve high scores.
 
 ## Screenshots
-![Gameplay Screenshot 1](/path/to/screenshot1.png)
+![Gameplay Screenshot 1](image/Screenshot1.png)
 
 
-![Gameplay Screenshot 2](/path/to/screenshot2.png)
+![Gameplay Screenshot 2](image/Screenshot2.png)
 
 
 ## Features
